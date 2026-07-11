@@ -1,6 +1,6 @@
 # nabsei
 
-Développeur Full-Stack en formation (CDA — Simplon) · Java Spring Boot, Angular, React.
+Full-Stack Developer in training (CDA — Simplon) · Java Spring Boot, Angular, React.
 
 📫 [nabvibes34@gmail.com](mailto:nabvibes34@gmail.com)
 
@@ -8,17 +8,22 @@ Développeur Full-Stack en formation (CDA — Simplon) · Java Spring Boot, Angu
 
 Java · Spring Boot · Angular · React · Docker
 
-## Projets
+## Projects
 
-- **[cda](https://github.com/nabsei/cda)** — Portfolio fullstack Simplon (écosystème de 80 projets) : Java Spring Boot / Angular / React, Docker/CI, sécurité OWASP/RGPD.
-- **[ecandidatv2](https://github.com/nabsei/ecandidatv2)** — Plateforme de gestion de candidatures universitaires, architecture découplée (Java).
-- **[ecandidat](https://github.com/nabsei/ecandidat)** — Plateforme de gestion de candidatures pour étudiants et administrateurs (PHP).
+- **[cda](https://github.com/nabsei/cda)** — Simplon fullstack portfolio (80-project ecosystem): Java Spring Boot / Angular / React, Docker/CI, OWASP/GDPR security.
+- **[ecandidatv2](https://github.com/nabsei/ecandidatv2)** — University application management platform, decoupled architecture (Java).
+- **[ecandidat](https://github.com/nabsei/ecandidat)** — Application management platform for students and admins (PHP).
 
-## Contributions open source
+## Open source contributions
 
-- [octraban_frontend#14](https://github.com/octraban/octraban_frontend/pull/14) — wiring de `@testing-library/jest-dom` dans la config Vitest.
-- [wasmhatch#2](https://github.com/haya-inc/wasmhatch/pull/2) — fix de parsing d'URL GitHub (`.git/` en fin d'URL).
+- [octraban_frontend#14](https://github.com/octraban/octraban_frontend/pull/14) — wiring `@testing-library/jest-dom` into the Vitest setup.
+- [wasmhatch#2](https://github.com/haya-inc/wasmhatch/pull/2) — fixed GitHub URL parsing for URLs ending in `.git/` (merged).
 
 ## Stats
 
-![nabsei's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabsei&show_icons=true&theme=default)
+<p align="center">
+  <img
+    alt="Profile Details"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nabsei&theme=github_dark"
+  />
+</p>
