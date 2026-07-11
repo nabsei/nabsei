@@ -1,7 +1,8 @@
 # nabsei
 
-Full-Stack Developer in training (CDA — Simplon) · Java Spring Boot, Angular, React.
+Full-Stack Developer · Java Spring Boot, Angular, React.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabilsahrane/)
 📫 [nabvibes34@gmail.com](mailto:nabvibes34@gmail.com)
 
 ## Stack
