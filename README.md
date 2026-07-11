@@ -3,7 +3,7 @@
 Full-Stack Developer · Java Spring Boot, Angular, React.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabilsahrane/)
-📫 [nabvibes34@gmail.com](mailto:nabvibes34@gmail.com)
+📫 [hello.nabsei@gmail.com](mailto:hello.nabsei@gmail.com)
 
 ## Stack
 
