@@ -7,7 +7,7 @@ Full-Stack Developer · Java Spring Boot, Angular, React.
 
 ## Stack
 
-Java · Spring Boot · Angular · React · Docker
+<img src="https://skillicons.dev/icons?i=java,spring,angular,react,docker" alt="Java, Spring Boot, Angular, React, Docker" />
 
 ## Projects
 
