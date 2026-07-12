@@ -17,8 +17,11 @@ Full-Stack Developer · Java Spring Boot, Angular, React, TypeScript, Express, M
 
 ## Open source contributions
 
-- [octraban_frontend#14](https://github.com/octraban/octraban_frontend/pull/14) — wiring `@testing-library/jest-dom` into the Vitest setup.
 - [wasmhatch#2](https://github.com/haya-inc/wasmhatch/pull/2) — fixed GitHub URL parsing for URLs ending in `.git/` (merged).
+- [vmux#10](https://github.com/imitation-alpha/vmux/pull/10) — added accessible names to glyph-only PWA buttons (merged).
+- [whipstr#19](https://github.com/neurlang/whipstr/pull/19) — fixed stale references in the docs (merged).
+- [nodejs/doc-kit#899](https://github.com/nodejs/doc-kit/pull/899) — documented a missing web generator config option.
+- [octraban_frontend#14](https://github.com/octraban/octraban_frontend/pull/14) — wired `@testing-library/jest-dom` into the Vitest setup.
 
 ## Stats
 
