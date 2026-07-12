@@ -18,6 +18,7 @@ Full-Stack Developer · Java Spring Boot, Angular, React, TypeScript, Express, N
 - [WinDroid-Runtime#13](https://github.com/SamratB8/WinDroid-Runtime/pull/13) — added a `CONTRIBUTING.md` guide.
 - [GS-SystemAnalyzer/core#147](https://github.com/GS-SystemAnalyzer/core/pull/147) — removed unused dead code from the disk scanner engine.
 - [Hekmo#12](https://github.com/Sherwin-14/Hekmo/pull/12) — added PyPI/CI/license status badges to the README.
+- [kubeflow/mcp-server#64](https://github.com/kubeflow/mcp-server/pull/64) — added README badges and a demo section.
 
 ## Stats
 
