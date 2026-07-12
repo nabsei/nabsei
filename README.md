@@ -1,13 +1,13 @@
 # nabsei
 
-Full-Stack Developer · Java Spring Boot, Angular, React, TypeScript, Express, MySQL, PostgreSQL, Docker, HTML, CSS, JavaScript, Git.
+Full-Stack Developer · Java Spring Boot, Angular, React, TypeScript, Express, MySQL, PostgreSQL, Docker, HTML, CSS, JavaScript, Git, C++.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabilsahrane/)
 📫 [hello.nabsei@gmail.com](mailto:hello.nabsei@gmail.com)
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=java,spring,angular,react,ts,express,mysql,postgres,docker,html,css,js,git" alt="Java, Spring Boot, Angular, React, TypeScript, Express, MySQL, PostgreSQL, Docker, HTML, CSS, JavaScript, Git" />
+<img src="https://skillicons.dev/icons?i=java,spring,angular,react,ts,express,mysql,postgres,docker,html,css,js,git,cpp" alt="Java, Spring Boot, Angular, React, TypeScript, Express, MySQL, PostgreSQL, Docker, HTML, CSS, JavaScript, Git, C++" />
 
 ## Projects
 
