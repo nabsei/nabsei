@@ -11,9 +11,9 @@ Full-Stack Developer · Java Spring Boot, Angular, React, TypeScript, Express, M
 
 ## Projects
 
-- **[cda](https://github.com/nabsei/cda)** — Simplon fullstack portfolio (80-project ecosystem): Java Spring Boot / Angular / React, Docker/CI, OWASP/GDPR security.
-- **[ecandidatv2](https://github.com/nabsei/ecandidatv2)** — University application management platform, decoupled architecture (Java).
-- **[ecandidat](https://github.com/nabsei/ecandidat)** — Application management platform for students and admins (PHP).
+- **cda** — Simplon fullstack portfolio (80-project ecosystem): Java Spring Boot / Angular / React, Docker/CI, OWASP/GDPR security.
+- **ecandidatv2** — University application management platform, decoupled architecture (Java).
+- **ecandidatv1** — Application management platform for students and admins (PHP).
 
 ## Open source contributions
 
