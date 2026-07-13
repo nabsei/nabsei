@@ -9,7 +9,7 @@ Full-Stack Developer · Java Spring Boot, Angular, React, TypeScript, Express, N
 
 <img src="https://skillicons.dev/icons?i=java,spring,angular,react,ts,express,nodejs,mysql,postgres,docker,gitlab,html,css,js,git" alt="Java, Spring Boot, Angular, React, TypeScript, Express, Node.js, MySQL, PostgreSQL, Docker, GitLab CI/CD, HTML, CSS, JavaScript, Git" />
 
-## Top contributions
+## Open source contributions (selected)
 
 - [kubeflow/mcp-server#64](https://github.com/kubeflow/mcp-server/pull/64) — added README badges and a demo section.
 - [wasmhatch#2](https://github.com/haya-inc/wasmhatch/pull/2) — fixed GitHub URL parsing for URLs ending in `.git/`.
