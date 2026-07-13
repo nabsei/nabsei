@@ -16,7 +16,6 @@ Full-Stack Developer · Java Spring Boot, Angular, React, TypeScript, Express, N
 - [vmux#10](https://github.com/imitation-alpha/vmux/pull/10) — added accessible names to glyph-only PWA buttons.
 - [whipstr#19](https://github.com/neurlang/whipstr/pull/19) — fixed stale references in the docs.
 - [relay#38](https://github.com/valtors/relay/pull/38) — added a `--json` flag to `relay doctor` for machine-readable output.
-- [GS-SystemAnalyzer/core#147](https://github.com/GS-SystemAnalyzer/core/pull/147) — removed unused dead code from the disk scanner engine.
 
 ## Stats
 
