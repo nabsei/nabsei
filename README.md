@@ -11,11 +11,11 @@ Full-Stack Developer · Java Spring Boot, Angular, React, TypeScript, Express, N
 
 ## Open source contributions (selected)
 
+- [nodejs/doc-kit#899](https://github.com/nodejs/doc-kit/pull/899) — documented `remoteConfigUrl` in the web generator README.
 - [kubeflow/mcp-server#64](https://github.com/kubeflow/mcp-server/pull/64) — added README badges and a demo section.
-- [wasmhatch#2](https://github.com/haya-inc/wasmhatch/pull/2) — fixed GitHub URL parsing for URLs ending in `.git/`.
 - [vmux#10](https://github.com/imitation-alpha/vmux/pull/10) — added accessible names to glyph-only PWA buttons.
-- [whipstr#19](https://github.com/neurlang/whipstr/pull/19) — fixed stale references in the docs.
 - [relay#38](https://github.com/valtors/relay/pull/38) — added a `--json` flag to `relay doctor` for machine-readable output.
+- [whipstr#19](https://github.com/neurlang/whipstr/pull/19) — fixed stale references in the docs.
 
 ## Stats
 
