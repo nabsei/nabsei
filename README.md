@@ -28,8 +28,4 @@ Full-Stack Developer · Java Spring Boot, Angular, React, TypeScript, Express, N
     alt="GitHub Streak"
     src="https://streak-stats.demolab.com/?user=nabsei&theme=github-dark"
   />
-  <img
-    alt="Top Languages"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabsei&theme=github_dark&layout=compact"
-  />
 </p>
