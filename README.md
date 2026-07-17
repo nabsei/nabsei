@@ -2,7 +2,6 @@
 
 Full-Stack Developer · Java Spring Boot, Angular, React, TypeScript, Express, Node.js, MySQL, PostgreSQL, Docker, GitLab CI/CD, HTML, CSS, JavaScript, Git.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabilsahrane/)
 📫 [hello.nabsei@gmail.com](mailto:hello.nabsei@gmail.com)
 
 ## Stack
