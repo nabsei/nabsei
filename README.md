@@ -21,10 +21,10 @@ Full-Stack Developer · Java Spring Boot, Angular, React, TypeScript, Express, N
 <p align="center">
   <img
     alt="GitHub Stats"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabsei&show_icons=true&theme=github_dark&hide_rank=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabsei&show_icons=true&theme=github_dark&hide_rank=true&cache_bust=1"
   />
   <img
     alt="GitHub Streak"
-    src="https://streak-stats.demolab.com/?user=nabsei&theme=github-dark"
+    src="https://streak-stats.demolab.com/?user=nabsei&theme=github-dark&cache_bust=1"
   />
 </p>
