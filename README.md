@@ -1,5 +1,7 @@
 # nabsei
 
+Professionally shipping code. Unprofessionally shipping sound.
+
 Full-Stack Developer · Java Spring Boot, Angular, React, TypeScript, Express, Node.js, MySQL, PostgreSQL, Docker, GitLab CI/CD, HTML, CSS, JavaScript, Git.
 
 📫 [hello.nabsei@gmail.com](mailto:hello.nabsei@gmail.com)
