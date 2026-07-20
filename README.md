@@ -10,6 +10,7 @@ Full-Stack Developer · Java Spring Boot, Angular, React, TypeScript, Express, N
 
 ## Open source contributions (selected)
 
+- [kotlinx.coroutines#4703](https://github.com/Kotlin/kotlinx.coroutines/pull/4703) — corrected the Supervision docs' description of failure vs. cancellation propagation.
 - [git-cliff#1585](https://github.com/orhun/git-cliff/pull/1585) — documented how to ignore commits listed in `.git-blame-ignore-revs`.
 - [nodejs/doc-kit#899](https://github.com/nodejs/doc-kit/pull/899) — documented `remoteConfigUrl` in the web generator README.
 - [kubeflow/mcp-server#64](https://github.com/kubeflow/mcp-server/pull/64) — added README badges and a demo section.
