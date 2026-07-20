@@ -15,4 +15,3 @@ Full-Stack Developer · Java Spring Boot, Angular, React, TypeScript, Express, N
 - [kubeflow/mcp-server#64](https://github.com/kubeflow/mcp-server/pull/64) — added README badges and a demo section.
 - [vmux#10](https://github.com/imitation-alpha/vmux/pull/10) — added accessible names to glyph-only PWA buttons.
 - [relay#38](https://github.com/valtors/relay/pull/38) — added a `--json` flag to `relay doctor` for machine-readable output.
-- [robot-toast-package#14](https://github.com/Pratham2703005/robot-toast-package/pull/14) — removed a duplicate `className` key in the docs.
